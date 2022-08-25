@@ -1,19 +1,19 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "",
+"app_id":wxbf0046a969b3c925 "",
 # 公众号appSecret
-"app_secret": "",
+"app_secret":25eb8c3ea393ad5f420e7068b626d89a "",
 # 模板消息id
-"template_id": "",
+"template_id":wtb1tZn9jRUXkJ97N34pRueoSTeKa3OzqasrIRNAUGI "",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": [""],
+"user": ["oDjFF6vrO9h4KDzyJLncpzF46y78"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "",
+"weather_key":acc83ecd314841e48299de731abd563c "",
 # 天行数据apikey
-"tian_api": " ",
+"tian_api":9d52d1f4475f81a343eef5bd45160dcc " ",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "番禺区",
 # 生日1
