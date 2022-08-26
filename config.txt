@@ -1,29 +1,29 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id":wxbf0046a969b3c925 "",
+"app_id":"wx29b23494990145f1",
 # 公众号appSecret
-"app_secret":25eb8c3ea393ad5f420e7068b626d89a "",
+"app_secret":"c06d38430925d27396f7be3e375695c4",
 # 模板消息id
-"template_id":wtb1tZn9jRUXkJ97N34pRueoSTeKa3OzqasrIRNAUGI "",
+"template_id":"5lzzYA--YoPp6rpkBv9KzJtBbaOk0KaL-ZpUXoN8FuI",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oDjFF6vrO9h4KDzyJLncpzF46y78"],
+"user": ["o2cXd6qKMPJWEYaxd5x1kiwMo5mM"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key":acc83ecd314841e48299de731abd563c "",
+"weather_key":"bb9466b31f5241498acbe1aacd07366f",
 # 天行数据apikey
-"tian_api":9d52d1f4475f81a343eef5bd45160dcc " ",
+"tian_api":"2ff9530a68ed07e3878181fa8bcf7228",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "凉州区",
+"region": "雁塔区",
 # 生日1
-"birthday1": {"name": "乙红", "birthday": "1999-07-20"},
+"birthday1": {"name": "nature", "birthday": "1997-05-22"},
 # 生日2
-"birthday2": {"name": "穗穗", "birthday": "r1999-12-26"},
+#"birthday2": {"name": "穗穗", "birthday": "r1999-12-26"},
 # 在一起的日子，格式同上
-"love_date": "2021-01-01",
+#"love_date": "2021-01-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "好好学习，天天向上",
 # 金句英文
-"note_en": ""
+"note_en": "good good study,day day up "
 }
